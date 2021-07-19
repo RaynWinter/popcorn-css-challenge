@@ -1,6 +1,15 @@
+DEMO:
+
+![alt text](https://github.com/RaynWinter/popcorn-css-challenge/blob/master/demo.png)
+
+
+
 ## Popcorn CSS challenge
 Recreate the site below
 ![alt text](https://i.gyazo.com/d515c0431fd1ab46dbd3104623c3f34b.png)
+
+
+
 
 The colors required are in the css file.
 
